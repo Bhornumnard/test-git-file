@@ -2,6 +2,6 @@ add some text in this file
 
 add line 2
 
-add from feature-2
+Hello
 
 add something different
