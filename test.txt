@@ -2,4 +2,4 @@ feature-2
 
 codecamp
 
-student
+teacher
