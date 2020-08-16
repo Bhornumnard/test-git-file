@@ -2,4 +2,11 @@ feature-1
 
 codecamp
 
-people
+teacher
+
+
+line 8
+
+line 10
+
+line 12
