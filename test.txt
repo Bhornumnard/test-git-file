@@ -4,9 +4,4 @@ codecamp
 
 teacher
 
-
-line 8
-
-line 10
-
-line 12
+line 4
